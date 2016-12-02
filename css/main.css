@@ -1392,7 +1392,6 @@ pre .javascript .function {
   margin: 0 0.5em;
 }
 .post-meta-item-icon {
-  display: none;
   margin-right: 3px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -1681,7 +1680,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d152ff;
+  background: #0bffff;
 }
 .links-of-blogroll {
   font-size: 13px;
